@@ -20,3 +20,5 @@ class Chairlift:
 
     def __repr__(self):
         return f"Chairlift with {self.n} chairs."
+
+# test
